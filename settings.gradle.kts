@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CalculatorByArka"
+rootProject.name = "CalculatorByChintu"
 include(":app")

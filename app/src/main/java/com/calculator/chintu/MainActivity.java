@@ -1,4 +1,4 @@
-package com.calculator.arka;
+package com.calculator.chintu;
 
 import android.os.Bundle;
 import android.view.View;

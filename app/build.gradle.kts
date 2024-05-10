@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.calculator.arka"
+    namespace = "com.calculator.chintu"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.calculator.arka"
+        applicationId = "com.calculator.chintu"
         minSdk = 23
         targetSdk = 34
         versionCode = 1
