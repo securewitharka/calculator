@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculatorByArka" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryVariant">#FFC107</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">#80CBC4</item>
+        <item name="colorSecondaryVariant">#00796B</item>
+        <item name="colorSecondaryVariant">@color/black</item>
+
+
+
+    </style>
+
+    <style name="Theme.CalculatorByArka" parent="Base.Theme.CalculatorByArka" />
+</resources>
